@@ -19,7 +19,11 @@
   },
   "homepage": "https://github.com/bsb7/webpack-starter#readme",
   "devDependencies": {
+    "bootstrap": "^4.5.0",
     "css-loader": "^3.5.3",
+    "node-sass": "^4.14.1",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
     "style-loader": "^1.2.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
