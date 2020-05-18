@@ -1,0 +1,21 @@
+{
+  "name": "initial",
+  "version": "1.0.0",
+   "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsb7/webpack-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsb7/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/bsb7/webpack-starter#readme"
+}
