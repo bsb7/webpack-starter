@@ -1,11 +1,11 @@
 {
   "name": "initial",
   "version": "1.0.0",
-   "private": true,
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"webpack"
+    "start": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/bsb7/webpack-starter/issues"
   },
-  "homepage": "https://github.com/bsb7/webpack-starter#readme"
+  "homepage": "https://github.com/bsb7/webpack-starter#readme",
+  "devDependencies": {
+    "css-loader": "^3.5.3",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
 }
